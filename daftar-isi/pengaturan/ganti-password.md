@@ -4,7 +4,9 @@
 
 ![](../../.gitbook/assets/gantipassword.PNG)
 
-Form ini digunakan untuk mengganti atau mengubah password user&#x20;
+Form ini digunakan untuk mengganti atau mengubah password user
+
+Berikut cara mengganti password :
 
 * Password : Masukan password yang digunakan
 * Password Baru : Masukan password baru yang ingin digunakan
